@@ -1,0 +1,18 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "251119.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "fs": "0.0.1-security",
+    "popper.js": "^1.16.0",
+    "promise": "^8.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
